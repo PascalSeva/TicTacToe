@@ -1,3 +1,5 @@
+Tic Tac Toe Rules
+
 1. Selection of the first player
 2. Assignment of "O" or "X"
 3. Computer can select a position based on either random position. 
