@@ -1,4 +1,4 @@
-Tic Tac Toe Rules
+Tic Tac Toe Project Requirements
 
 1. Selection of the first player
 2. Assignment of "O" or "X"
